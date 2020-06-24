@@ -39,4 +39,4 @@ Sources:
 <https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report>
 <https://www.carbonbrief.org/analysis-why-coal-use-must-plummet-this-decade-to-keep-global-warming-below-1-5c>
 
-# Previous: [< Effects](https://ccamaisa.github.io/312H-globalwarmingproj/effects)
+#### Previous: [< Effects](https://ccamaisa.github.io/312H-globalwarmingproj/effects)
