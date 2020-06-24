@@ -5,7 +5,7 @@ This site aims to explain global warming through globalism and its influences. B
 
 
 ### What is this?
-In short, the goal of this site is to illustrate Globalism's deep interconnection to the current "climate crisis" we are facing as a society. I will go into depth on three topics, which are seperated into three different pages:
+In short, the goal of this site is to illustrate globalism's deep interconnection to the current "climate crisis" we are facing as a society. I will go into depth on three topics, which are seperated into three different pages:
 
 ##### [Background](https://ccamaisa.github.io/312H-globalwarmingproj/background)
 This page is aimed at answering the question, "How did we get here?" through the analysis of historical trends of global warming and its involvement with globalism and industrialization. We will also explore the statistics and metrics of today and attempt to pinpoint the largest polluters by sector and region.
