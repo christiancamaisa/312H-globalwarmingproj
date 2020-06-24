@@ -36,3 +36,6 @@ Sources:
 <https://www.history.com/news/human-ancestors-tamed-fire-earlier-than-thought>
 <https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>
 <https://www.chathamhouse.org/sites/default/files/field/field_document20141203LivestockClimateChangeForgottenSectorBaileyFroggattWellesleyFinal.pdf>
+
+
+![Next: Effects >](https://ccamaisa.github.io/312H-globalwarmingproj/effects)
