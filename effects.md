@@ -15,9 +15,9 @@ The effects aren't isolated to the world's coldest regions. Farmers are already 
 ### Future Effects
 The United Nations published a report in 2018 titled "Special Report on Global Warming of 1.5 °C," which detailed the likely effects we would face at levels of both +1.5°C and +2°C. The study is noted for finding that keeping global warming levels below +1.5°C is possible, but would require "rapid, far-reaching and unprecedented changes in all aspects of society." Importantly, it also stated that humanity would need to reduce its emissions of C02 by 45% by 2030 and reach net-zero at 2050 to stay below the 1.5°C target. As for the 2°C target, we would need to lower our emissions by 25% by 2030 and reach net-zero in 2070. 
 
-*For more on what action needs to be taken, please visit [What's Next?](https://ccamaisa.github.io/312H-globalwarmingproj/whatsnext)*
+*For more on what action needs to be taken, please visit [What's Next? >](https://ccamaisa.github.io/312H-globalwarmingproj/whatsnext)*
 
-https://www.ipcc.ch/sr15/graphics/#cid_455 (TODO: Get this graphic downloaded)
+![How Close Are We to 1.5°C?](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/01/FAQ1.2_IPCC.jpg)
 
 The report also made key differentiation between 1.5°C and 2°C, stating that limiting global warming to 1.5°C would "reduce the challenging impacts on ecosystems, human health, and well-being." It stated that if humanity were to reach levels of 2°C, there would be profound effects on ecosystems and agriculture, more exacerbated weather, among other impacts. Since we are not at those levels now, we have no way of knowing *exactly* what the impacts will be at 2°C, but one thing is for sure. The actions we take today will have a profound effect on our futures.
 
