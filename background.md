@@ -20,6 +20,7 @@ Society's reliance on fossil fuels came about around the same time as widespread
 
 
 Again, manufacturing is not the *only* cause of global warming. A large portion of it comes from other sources as well:
+
 ![Global Emissions by Source (2014) (3)](https://www.epa.gov/sites/production/files/2016-05/global_emissions_sector_2015.png)
 
 The above chart, produced by the United States EPA, shows just how diverse the contributors to global warming are. Agriculture is responsible for a significant piece of the pie, with beef production historically being a notorious contributor. A paper by Chatham House, a British geopolitical research organization, states, "Greenhouse gas emissions from the livestock sector are estimated to account for 14.5 percent of the global total, more than direct emissions from the transport sector."(4) You heard that right -- global livestock emissions are more significant than those of the entire transport sector. As silly as it may seem, methane emissions from cow flatulence is a huge problem that only is getting larger as we speak. A rapidly growing world population means a rapidly growing demand for meat.
@@ -32,6 +33,6 @@ A Brazilian barge transports trees cut down from the Amazon. - Wilson Dias/Agên
 In summary, global emissions have reached all-time highs due to the increasing demand for cheap energy, products, food, and transportation. The proliferation of fossil fuels has led to an overwhelming dependence on their existence for many of our conveniences in modern-day life. Identifying the sources of emissions and pollution is the first step in reducing our footprint as a society.
 
 Sources:
-https://www.history.com/news/human-ancestors-tamed-fire-earlier-than-thought
-Hannah Ritchie and Max Roser (2017) - "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions' [Online Resource]
-https://www.chathamhouse.org/sites/default/files/field/field_document/20141203LivestockClimateChangeForgottenSectorBaileyFroggattWellesleyFinal.pdf
+<https://www.history.com/news/human-ancestors-tamed-fire-earlier-than-thought>
+<https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>
+<https://www.chathamhouse.org/sites/default/files/field/field_document20141203LivestockClimateChangeForgottenSectorBaileyFroggattWellesleyFinal.pdf>
