@@ -22,6 +22,7 @@ At the Paris Accords, nearly every country agreed that drastic action is necessa
 This is a very simplified version of the geopolitical barrier to climate action. I recommend this excellent video which illustrates the issue very well and goes more in-depth on the topic.
 
 *Click the thumbnail below to watch:*
+
 [![](http://img.youtube.com/vi/ipVxxxqwBQw/0.jpg)](http://www.youtube.com/watch?v=ipVxxxqwBQw "Who Is Responsible for Climate Change? - YouTube")
 
 
