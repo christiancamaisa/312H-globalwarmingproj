@@ -16,7 +16,9 @@ In Effects, we will look at the consequences of global warming in the past, pres
 #### [What's Next?](https://ccamaisa.github.io/312H-globalwarmingproj/whatsnext)
 This section will explore what society has and can do to meet the targets set forth by the world's leading scientists and researchers to minimize the impacts of global warming.
 
-##### Legal Disclaimers:
-Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
+
+
+#### Legal Disclaimers:
+Copyright: Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
 Privacy Disclosure: No personal/identifying information of any kind is collected by this website.
