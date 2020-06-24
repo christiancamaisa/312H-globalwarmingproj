@@ -29,5 +29,5 @@ Sources:
 <https://climate.nasa.gov/vital-signs/arctic-sea-ice/>
 <https://www.washingtonpost.com/weather/2020/04/21/earth-warmest-year-likely-2020/>
 
-#### Previous: [Background <](https://ccamaisa.github.io/312H-globalwarmingproj/background)  |  Next: [What's Next >](https://ccamaisa.github.io/312H-globalwarmingproj/whatsnext)
+#### Previous: [< Background](https://ccamaisa.github.io/312H-globalwarmingproj/background)  |  Next: [What's Next >](https://ccamaisa.github.io/312H-globalwarmingproj/whatsnext)
 
