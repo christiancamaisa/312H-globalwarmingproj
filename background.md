@@ -38,4 +38,4 @@ Sources:
 <https://www.chathamhouse.org/sites/default/files/field/field_document20141203LivestockClimateChangeForgottenSectorBaileyFroggattWellesleyFinal.pdf>
 
 
-![Next: Effects >](https://ccamaisa.github.io/312H-globalwarmingproj/effects)
+[Next: Effects >](https://ccamaisa.github.io/312H-globalwarmingproj/effects)
