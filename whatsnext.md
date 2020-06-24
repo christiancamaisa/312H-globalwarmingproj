@@ -35,6 +35,6 @@ Many of the changes that have to come about to counter global warming seem drast
 Carbon taxes will need to be imposed. New methods of sustainable transport will need to be popularized, and the global agriculture industry will have to figure out ways to reduce their emissions (I'm looking at you, cattle). Again, we are starting to see some movement in the right direction, but ultimately, it is up to our leaders to enforce and propel these initiatives forward. Electing people into public positions that are aware of the issue and can address them is paramount, starting with your vote. Personal adjustments, although they may seem insignificant, are also great ways to combat global warming. Use public transportation when you can, eat less beef products, and reduce your overall footprint through thoughtful lifestyle choices.
 
 Sources:
-http://www.youtube.com/watch?v=ipVxxxqwBQw
-https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report
-https://www.carbonbrief.org/analysis-why-coal-use-must-plummet-this-decade-to-keep-global-warming-below-1-5c
+<http://www.youtube.com/watch?v=ipVxxxqwBQw>
+<https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report>
+<https://www.carbonbrief.org/analysis-why-coal-use-must-plummet-this-decade-to-keep-global-warming-below-1-5c>
