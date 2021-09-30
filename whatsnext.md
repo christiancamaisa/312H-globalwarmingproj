@@ -1,6 +1,6 @@
 # What's Next
 
-The world's increasing reliance on fossil fuels means we emit a staggering amount of emissions, and those emissions pose a grave threat to our survival. But what *actually* needs to get done?
+The world's increasing reliance on fossil fuels means we emit a staggering amount of emissions, which pose a grave threat to our long-term survival. But what *actually* needs to get done?
 
 Just a few decades ago, humanity was mostly unaware of the grave dangers that greenhouse gasses posed to its very existence. Before we knew it, our world was dependent on them for nearly everything, and at times it can seem too late. Despite the horrifying numbers and predictions, it isn't too late to dampen its effects. Drastic action needs to be immediately taken by world governments (specifically developing nations) to prevent and restrict the release of harmful toxins into the atmosphere.
 
