@@ -1,6 +1,6 @@
 # Background
 
-As most of us know, global warming is one of the most significant issues facing our society today. It presents a fundamental threat to humanity's existence and solving it is a challenge due to our dependence on unsustainable energy sources.
+As most of us know, global warming is one of the most significant issues facing our society today. It presents a fundamental threat to humanity's existence and solving it is a challenge due to our dependence on unsustainable energy.
 
 ### How did we get here?
 
